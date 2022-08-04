@@ -1,0 +1,8 @@
+div{
+    height: 500px;
+    /* background-color: green; */
+}
+
+.bg-box{
+    background: green url("https: //www.freeiconspng.com/uploads/lamp-png-0.png") repeat-x top cover;
+}
