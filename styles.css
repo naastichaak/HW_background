@@ -1,5 +1,8 @@
 .bg-box{
     height: 600px;
-    background: url("https://www.freeiconspng.com/uploads/lamp-png-0.png") top / 50px 90px repeat-x, url("https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png") bottom / 130px 130px repeat-x, url("https://th.bing.com/th/id/R.59686422717c50154010af7c70632789?rik=0qmVkEY%2fHk9NxQ&riu=http%3a%2f%2fih1.redbubble.net%2fimage.68584672.9639%2fsticker%2c375x360.u3.png&ehk=3x6JW18hvYyDVqJV7tiN9y5XZnPIlLnji%2bvuOv%2f%2bGUM%3d&risl=&pid=ImgRaw&r=0") right / 40px 40px repeat-y, url("https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru") left / 50px 40px repeat-y, url("https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg") center / 500px no-repeat;
+    background: url("https://www.freeiconspng.com/uploads/lamp-png-0.png") top / 50px 90px repeat-x,
+    url("https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png") bottom / 130px 130px repeat-x,
+    url("https://th.bing.com/th/id/R.59686422717c50154010af7c70632789?rik=0qmVkEY%2fHk9NxQ&riu=http%3a%2f%2fih1.redbubble.net%2fimage.68584672.9639%2fsticker%2c375x360.u3.png&ehk=3x6JW18hvYyDVqJV7tiN9y5XZnPIlLnji%2bvuOv%2f%2bGUM%3d&risl=&pid=ImgRaw&r=0") right / 40px 40px repeat-y,
+    url("https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru") left / 50px 40px repeat-y, url("https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg") center / 500px no-repeat;
     background-color: green;
 }
